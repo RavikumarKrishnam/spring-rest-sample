@@ -1,4 +1,4 @@
-package com.finance.service.findataprocessor.service.exception;
+package com.mtp.service.exception;
 
 public class UserAlreadyExistsException extends RuntimeException {
 

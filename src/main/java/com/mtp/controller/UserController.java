@@ -1,8 +1,8 @@
-package com.finance.service.findataprocessor.controller;
+package com.mtp.controller;
 
-import com.finance.service.findataprocessor.domain.User;
-import com.finance.service.findataprocessor.service.UserService;
-import com.finance.service.findataprocessor.service.exception.UserAlreadyExistsException;
+import com.mtp.domain.User;
+import com.mtp.service.UserService;
+import com.mtp.service.exception.UserAlreadyExistsException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;

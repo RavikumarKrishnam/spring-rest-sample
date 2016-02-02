@@ -1,4 +1,4 @@
-package com.finance.service.findataprocessor.domain;
+package com.mtp.domain;
 
 import com.google.common.base.Objects;
 

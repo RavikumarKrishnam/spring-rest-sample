@@ -1,8 +1,8 @@
-package com.finance.service.findataprocessor.service;
+package com.mtp.service;
 
-import com.finance.service.findataprocessor.domain.User;
-import com.finance.service.findataprocessor.repository.UserRepository;
-import com.finance.service.findataprocessor.service.exception.UserAlreadyExistsException;
+import com.mtp.domain.User;
+import com.mtp.repository.UserRepository;
+import com.mtp.service.exception.UserAlreadyExistsException;
 import java.util.ArrayList;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

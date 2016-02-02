@@ -1,6 +1,6 @@
-package com.finance.service.findataprocessor.service;
+package com.mtp.service;
 
-import com.finance.service.findataprocessor.domain.User;
+import com.mtp.domain.User;
 
 import java.util.List;
 
